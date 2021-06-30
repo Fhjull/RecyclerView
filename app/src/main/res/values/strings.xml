@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="string_1">Text 1</string>
+    <string name="string_2">Text 2</string>
+    <string name="string_3">Text 3</string>
+    <string name="string_4">Text 4</string>
+    <string name="string_5">Text 5</string>
+    <string name="string_6">Text 6</string>
+    <string name="string_7">Text 7</string>
+    <string name="string_8">Text 8</string>
+    <string name="string_9">Text 9</string>
+    <string name="string_10">Text 10</string>
+</resources>
